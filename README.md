@@ -1,4 +1,4 @@
-# Obstacle Avoidance Robot (Autonomous navigation simulation) (ROS2 & Gazebo)
+# Autonomous navigation simulation (Obstacle Avoidance Robot) (ROS2 & Gazebo)
 
 This project is an implementation of an autonomous obstacle-avoiding robot, developed as part of a Master's in AI and Robotics. The robot uses sensor data to navigate a simulated environment in Gazebo while avoiding collisions.
 
