@@ -1,10 +1,10 @@
-# Obstacle Avoidance Robot (ROS & Gazebo)
+# Obstacle Avoidance Robot (Autonomous navigation simulation) (ROS2 & Gazebo)
 
 This project is an implementation of an autonomous obstacle-avoiding robot, developed as part of a Master's in AI and Robotics. The robot uses sensor data to navigate a simulated environment in Gazebo while avoiding collisions.
 
 ## Technologies Used
 
-* **ROS (Robot Operating System)**: For communication between different parts of the robot (nodes).
+* **ROS2 (Robot Operating System)**: For communication between different parts of the robot (nodes).
 * **Gazebo**: For simulating the robot and the environment.
 * **Python**: For the obstacle avoidance logic and motion control.
 * **catkin**: As the build system for ROS.
@@ -20,7 +20,8 @@ Follow these steps to set up the build environments and launch the simulation.
 * Ensure you have a working installation of ROS (e.g., Noetic, Melodic) and Gazebo.
 * Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/VaradPawaskar/ObstacleAvoidanceRobot.git](https://github.com/VaradPawaskar/ObstacleAvoidanceRobot.git)
+    ```bash
+    git clone [https://github.com/aryyanjadhav/Autonomous-navigation-simulation](https://github.com/aryyanjadhav/Autonomous-navigation-simulation)
     cd ObstacleAvoidanceRobot
     ```
 
