@@ -22,7 +22,7 @@ Follow these steps to set up the build environments and launch the simulation.
     ```bash
     ```bash
     git clone [https://github.com/aryyanjadhav/Autonomous-navigation-simulation](https://github.com/aryyanjadhav/Autonomous-navigation-simulation)
-    cd ObstacleAvoidanceRobot
+    cd Autonomous-navigation-simulation
     ```
 
 ### 2. Build Workspaces
